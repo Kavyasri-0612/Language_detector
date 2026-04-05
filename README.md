@@ -1,4 +1,4 @@
-# 🌍 Language Detector – Real-Time Language Detection App
+# 🌍 Language Detector – Real-Time Language Detection 
 
 Language Detector is a modern and interactive web app designed to identify the language of any given text. With a clean interface, confidence scoring, and support for **22 languages**, it transforms simple text input into actionable insights.  
 
